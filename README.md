@@ -13,8 +13,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 ## Jij
 
 <details open>
-  <summary>uitwerken voor kick-off werkgroep</summary>
-
   ### Auteur:
   Tess Esmee Goossens
 
@@ -22,7 +20,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Rood misschien zwart
 
   #### Je focus:
-  surface plane
+  Surface plane
  
 </details>
 
@@ -33,8 +31,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 ## Je Gekozen website
 
 <details open>
-  <summary>uitwerken voor kick-off werkgroep</summary>
-
   ### Je opdracht:
   link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
   https://www.lostcauldron.com/ 
