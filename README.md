@@ -41,12 +41,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   Home pagina
-  https://www.lostcauldron.com/ 
+  https://www.lostcauldron.com/ <br>
   <img src="readme-images/TheLostCauldron-Home.png" width="375px" alt="Home pagina van de site">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Online shop filtert op thee
-  https://www.lostcauldron.com/online-shop/teas
+  https://www.lostcauldron.com/online-shop/teas <br>
   <img src="readme-images/TheLostCauldron-Shop-Tea.png" width="375px" alt="omschrijving van de pagina">
  
 </details>
