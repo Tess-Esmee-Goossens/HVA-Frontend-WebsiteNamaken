@@ -13,6 +13,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 ## Jij
 
 <details open>
+
   ### Auteur: 
   Tess Esmee Goossens
 
@@ -31,6 +32,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 ## Je Gekozen website
 
 <details open>
+
   ### Je opdracht:
   link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
   https://www.lostcauldron.com/ 
@@ -38,21 +40,22 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   #### Screenshot(s) van de eerste pagina (small screen): 
   Home pagina
   https://www.lostcauldron.com/ <br>
-  <img src="readme-images/TheLostCauldron-Home.png" width="375px" alt="Home pagina van de site">
+  <img src="readme-images/TheLostCauldron-Home.png" width="375px" alt="afbeelding van de home pagina van de site">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Online shop filtert op thee
   https://www.lostcauldron.com/online-shop/teas <br>
-  <img src="readme-images/TheLostCauldron-Shop-Tea.png" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/TheLostCauldron-Shop-Tea.png" width="375px" alt="Afbeelding van de web shop ge vilterd op thee">
  
 </details>
+
+
 
 
 
 ## Toegankelijkheidstest 1/2 (week 1)
 
 <details>
-  <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:<br>
@@ -70,21 +73,23 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   - Knop overlapt tekst<br>
 
   ### Data
-  <img src="readme-images/OverlapContent.jpg" width="375px" alt="omschrijving van de pagina"><br>
-  <img src="readme-images/WCAG-1.png" width="375px" alt="omschrijving van de pagina"><br>
-  <img src="readme-images/WCAG-2.png" width="375px" alt="omschrijving van de pagina"><br>
-  <img src="readme-images/WCAG-3.png" width="375px" alt="omschrijving van de pagina"><br>
-  <img src="readme-images/WCAG-4.png" width="375px" alt="omschrijving van de pagina"><br>
-  <img src="readme-images/WCAG-5.png" width="375px" alt="omschrijving van de pagina"><br>
-
+  <img src="readme-images/OverlapContent.jpg" width="375px" alt="Afbeelding van de knop die de tekst overlapt"><br>
+  <img src="readme-images/WCAG-1.png" width="375px" alt="Afbeelding WCGA checklist deel 1"><br>
+  <img src="readme-images/WCAG-2.png" width="375px" alt="Afbeelding WCGA checklist deel 2"><br>
+  <img src="readme-images/WCAG-3.png" width="375px" alt="Afbeelding WCGA checklist deel 3"><br>
+  <img src="readme-images/WCAG-4.png" width="375px" alt="Afbeelding WCGA checklist deel 4"><br>
+  <img src="readme-images/WCAG-5.png" width="375px" alt="Afbeelding WCGA checklist deel 5"><br>
 
 </details>
+
+
 
 
 
 ## Breakdownschets (week 1)
 
 <details>
+
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
