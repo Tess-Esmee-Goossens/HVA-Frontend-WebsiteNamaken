@@ -13,7 +13,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 ## Jij
 
 <details open>
-  ### Auteur:
+  ### Auteur: 
   Tess Esmee Goossens
 
   #### Je startniveau:
@@ -55,7 +55,28 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
-  Lijst met je bevindingen die in de test naar voren kwamen:
+  Lijst met je bevindingen die in de test naar voren kwamen:<br>
+  - Skip knop is aanwezig<br>
+  - Shop items worden 2x benoemt een keer bij koppeline en bij de afbeelding<br>
+  - Bij de zwarte banner is de focus niet zichtbaar<br>
+  - Focus afbeelding niet duidelijk zichtbaar<br>
+  - Shop items out of order<br>
+  - Shop items staan niet in een list<br>
+  - De img van matlockshop heeft geen alt<br>
+  - Link openen in nieuwe tab is niet te horen met schreen reader<br>
+  - All media is linked naar socialmedia<br>
+  - Geen dark light mode<br>
+  - Fade in wordt nog steeds weergeven met reduced motion<br>
+  - Knop overlapt tekst<br>
+
+  ### Data
+  <img src="readme-images/OverlapContent.jpg" width="375px" alt="omschrijving van de pagina"><br>
+  <img src="readme-images/WCAG-1.png" width="375px" alt="omschrijving van de pagina"><br>
+  <img src="readme-images/WCAG-2.png" width="375px" alt="omschrijving van de pagina"><br>
+  <img src="readme-images/WCAG-3.png" width="375px" alt="omschrijving van de pagina"><br>
+  <img src="readme-images/WCAG-4.png" width="375px" alt="omschrijving van de pagina"><br>
+  <img src="readme-images/WCAG-5.png" width="375px" alt="omschrijving van de pagina"><br>
+
 
 </details>
 
