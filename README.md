@@ -92,7 +92,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### de hele pagina: 
   <img src="readme-images//TheLostCauldron-Home-BreakdownSchets.png" width="375px" alt="Breakdownschets home"><br>
-  <img src="readme-images/TheLostCauldron-Shop-Tea-BreakdownSchets" width="375px" alt="Breakdownschets Shop tea selection"><br>
+  <img src="readme-images/TheLostCauldron-Shop-Tea-BreakdownSchets.png" width="375px" alt="Breakdownschets Shop tea selection"><br>
 </details>
 
 
