@@ -105,17 +105,21 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Met het maken van de opdrachten heb ik niet echt veel problemen alleen met de opdrachten van de zwarte pieste heb ik wat meer moeite. Ik heb de opset van het project gemaakt zonder problemen.<br>
+  Als ik nu naar mijn website kijk zie ik 2 onderdelen waar ik meer moeite in moet stoppen om er achter te komen hoe ik dit moet doen (zie de 2 afbeeldingen hieronder) maar ik denk dat ik hier wel uit kom.<br>
 
+  <img src="readme-images/TekstDecoratie.png" width="375px" alt="Sierlijst om een stukje tekst"><br>
+  <img src="readme-images/Animatie-FollowUs.png" width="375px" alt="Ge animeerde tekst die zich herhaald met de tekst follow us"><br>
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
+  | Nathan         | Zoë                | Artemis      | Tess             |
   | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  | Voortgang      | Voortgang          | Voortgang    | Voortgang        |
+  | HTML           |                    |              |                  |
+  |                |                    |              |                  |
+
 
 
   ### Verslag van meeting
