@@ -117,7 +117,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   | Nathan         | Zoë                | Artemis      | Tess             |
   | ---            | ---                | ---          | ---              |
   | Voortgang      | Voortgang          | Voortgang    | Voortgang        |
-  | HTML           |                    |              |                  |
+  | HTML           |                    |              | HTML             |
   |                |                    |              |                  |
 
 
