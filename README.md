@@ -55,7 +55,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 ## Toegankelijkheidstest 1/2 (week 1)
 
-<details>
+<details open>
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:<br>
@@ -88,7 +88,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 ## Breakdownschets (week 1)
 
-<details>
+<details open>
 
   ### de hele pagina: 
   <img src="readme-images//TheLostCauldron-Home-BreakdownSchets.png" width="375px" alt="Breakdownschets home"><br>
@@ -101,7 +101,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 ## Voortgang 1 (week 2)
 
-<details>
+<details open>
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
@@ -125,10 +125,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - De site die ik had gekozen was goed maar als ik meer tijd over had kon ik een andere 2e pagina uitkiezen als degene die ik had gekozen vij makkelijk was.
+  Aanpassingen van mijn code om semantisch te maken.
+  - p weg halen ster in link zelf
+  - href in links
+  - header toevoegen aan socials
+  - p uit shop kan in a staan
 
 </details>
 

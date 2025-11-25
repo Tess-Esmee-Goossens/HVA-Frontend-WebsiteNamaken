@@ -14,9 +14,76 @@
 /* CUSTOM PROPERTIES */
 /*********************/
 :root {
-	/* startje */
-	--color-text:#111;
-	--color-background:#eee;
+	--color-text-black: hsl(0deg 0% 0%);
+	--color-text-tan: hsl(30.41deg 48.34% 70.39%);
+	--color-text-sale: hsl(11.19deg 88.13% 57.06%);
+
+	--clor-bg-header: hsl(0deg 0% 0%);
+
+	--color-white: hsl(60deg 6.67% 94.12%);
+	--color-black: hsl(0deg 0% 0%);
+	--color-tan: hsl(30.41deg 48.34% 70.39%);
+	--color-brown: hsl(28.7deg 38.98% 11.57%);
+	--color-grey: hsl(0deg 0% 13.33%);
+
+	--color-button-bg-dark: hsl(0deg 0% 0%);
+	--color-button-text-dark-1: hsl(30.41deg 48.34% 70.39%);
+	--color-button-text-dark-2: hsl(60deg 6.67% 94.12%);
+
+	--color-button-bg-light: hsl(30.41deg 48.34% 70.39%);
+	--color-button-text-light: hsl(0deg 0% 0%);
+
+
+	--icon-close: url("/images/Icons/close.svg");  /*<a href="https://www.flaticon.com/free-icons/close" title="close icons">Close icons created by joalfa - Flaticon</a>*/
+	--icon-menu: url("/images/Icons/settings.svg");  /*<a href="https://www.flaticon.com/free-icons/hamburger" title="hamburger icons">Hamburger icons created by HideMaru - Flaticon</a>*/
+	--icon-cart: url("/images/Icons/grocery-store.svg");  /*<a href="https://www.flaticon.com/free-icons/retail" title="retail icons">Retail icons created by Frey Wazza - Flaticon</a>*/
+	--icon-threads: url("/images/Icons/threads.svg");  /*<a href="https://www.flaticon.com/free-icons/threads" title="threads icons">Threads icons created by Freepik - Flaticon</a>*/
+	--icon-facebook: url("/images/Icons/facebook-app-symbol.svg");  /*<a href="https://www.flaticon.com/free-icons/facebook" title="facebook icons">Facebook icons created by Freepik - Flaticon</a>*/
+	--icon-tiktok: url("/images/Icons/tik-tok.svg");  /*<a href="https://www.flaticon.com/free-icons/tik-tok" title="tik tok icons">Tik tok icons created by Freepik - Flaticon</a>*/
+	--icon-insta: url("/images/Icons/instagram.svg");  /*<a href="https://www.flaticon.com/free-icons/instagram-logo" title="instagram logo icons">Instagram logo icons created by Freepik - Flaticon</a>*/
+}  
+
+
+
+
+
+
+/****************/
+/* algemeen*/
+/****************/
+
+/* jouw code */
+body{
+	max-width: 100vw;
+}
+
+img{
+	max-width: 100px;
+}
+
+
+
+
+
+
+/****************/
+/* header */
+/****************/
+Header{
+	background-color: var(--clor-bg-header)
+}
+
+
+
+
+
+
+
+/****************/
+/* Nav */
+/****************/
+Header nav{
+	background-color: var(--clor-bg-header)
 }
 
 
@@ -24,8 +91,134 @@
 
 
 /****************/
-/* JOUW STYLING */
+/* product nav */
 /****************/
+main > nav{
+	background-color: var(--color-tan)
+}
 
-/* jouw code */
+
+
+
+
+/****************/
+/* Special product */
+/****************/
+main section:nth-of-type(1)  {
+	background-image: url("/images/Home/pumpkin2banner.jpg");
+	
+}
+
+
+
+
+
+/****************/
+/* New in */
+/****************/
+main section:nth-of-type(2)  {
+	background-color: var(--color-white);
+	
+}
+
+
+
+
+
+/****************/
+/* online exclusive */
+/****************/
+main section:nth-of-type(3)  {
+	background-color: var(--color-brown);
+	
+}
+
+
+
+
+
+/****************/
+/* Want more to see */
+/****************/
+main section:nth-of-type(4)  {
+	background-color: var(--color-tan);
+	
+}
+
+
+
+
+
+/****************/
+/* Socials */
+/****************/
+main section:nth-of-type(5)  {
+	background-color: var(--color-white);
+	
+}
+main section:nth-of-type(6)  {
+	background-color: var(--color-white);
+	
+}
+
+
+
+
+
+/****************/
+/* form */
+/****************/
+main article:nth-of-type(1)  {
+	background-color: var(--color-white);
+	
+}
+
+
+
+
+
+/****************/
+/* our matlock shop */
+/****************/
+main article:nth-of-type(2)  {
+	background-color: var(--color-black);
+	
+}
+
+
+
+
+
+/****************/
+/* about us */
+/****************/
+main article:nth-of-type(3)  {
+	background-color: var(--color-tan);
+	
+}
+
+
+
+
+
+/****************/
+/* have a question */
+/****************/
+main section:nth-of-type(7)  {
+	background-color: var(--color-brown);
+	
+}
+
+
+
+
+
+/****************/
+/* footer */
+/****************/
+footer{
+	background-color: var(--color-black);
+}
+
+
 
