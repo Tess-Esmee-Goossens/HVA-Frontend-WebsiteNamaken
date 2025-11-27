@@ -114,8 +114,9 @@ Header nav{
 /****************/
 main > nav{
 	background-color: var(--color-tan);
-	padding-top:0.75em;
-	padding-bottom: 1em;
+	border-top: 5px solid hsl(30deg 30% 60%);;
+	padding-top:0.25em;
+	padding-bottom: 0.6em;
 }
 
 main > nav > ul{
@@ -124,16 +125,19 @@ main > nav > ul{
 	justify-content: center;
 	gap: 10px;
 }
+
 main > nav li{
 	list-style: none;
 	margin-top: 0.25em;
 }
+
 main > nav a{
 	font-family: "Work Sans";
 	text-decoration: underline;
 	text-decoration-thickness: 1px;
 	text-underline-offset: 5px;
 }
+
 main > nav > ul li:last-child a{
 	color: var(--color-text-sale);
 	font-weight: bold;
@@ -147,9 +151,17 @@ main > nav > ul li:last-child a{
 /* Special product */
 /****************/
 main section:nth-of-type(1)  {
-	background-image: url("/images/Home/pumpkin2banner.jpg");
-	
+	position: relative;
 }
+
+main section:nth-of-type(1) img {
+  min-width: 100%;
+  height: auto;
+  min-height: 384px;  /* optional */
+  object-fit: cover;  /* keeps image nice */
+  display: block;
+}
+
 
 
 

@@ -144,17 +144,17 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 2<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Ik ben begonnen met het schrijven van de code en heb 3 sections css geschreven en de css opgezet voor de eerste pagina.
 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
+  | Nathan         | Zoë                | Artemis      | Tess             |
   | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  | Voortgang      | Voortgang          | Voortgang    | Voortgang        |
+  | CSS            | CSS                |              |                  |
+  |                |                    |              |                  |
 
 
   ### Verslag van meeting
