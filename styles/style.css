@@ -13,6 +13,10 @@
 
 
 
+
+
+
+
 /*********************/
 /* CUSTOM PROPERTIES */
 /*********************/
@@ -46,6 +50,10 @@
 	--icon-tiktok: url("/images/Icons/tik-tok.svg");  /*<a href="https://www.flaticon.com/free-icons/tik-tok" title="tik tok icons">Tik tok icons created by Freepik - Flaticon</a>*/
 	--icon-insta: url("/images/Icons/instagram.svg");  /*<a href="https://www.flaticon.com/free-icons/instagram-logo" title="instagram logo icons">Instagram logo icons created by Freepik - Flaticon</a>*/
 }  
+
+
+
+
 
 
 
@@ -86,6 +94,11 @@ p{
     overflow: hidden;
     height: 100vh;
 }
+
+
+
+
+
 
 
 
@@ -132,6 +145,12 @@ header a{
 
 
 
+
+
+
+
+
+
 /****************/
 /* Nav */
 /****************/
@@ -152,6 +171,7 @@ header nav{
 	justify-content: center;
 	text-align: center;
 }
+
 header nav ul{
 	padding-top: 7em;
 }
@@ -161,10 +181,12 @@ header nav li{
 	font-family: "Work Sans";
 	padding:0.2em;
 }
+
 header nav.toonMenu {
  	transform: translateX(0);
   	transition:0.3s;
 }
+
 header nav > a {
 	padding: 0.8em 2.5em;
 	font-size: 1.5em;
@@ -173,6 +195,12 @@ header nav > a {
 	background-color: var(--color-button-bg-light);
 	margin-top: 6em;
 }
+
+
+
+
+
+
 
 
 
@@ -215,6 +243,11 @@ main > nav > ul li:last-child a{
 
 
 
+
+
+
+
+
 /****************/
 /* Special product */
 /****************/
@@ -229,6 +262,25 @@ main section:nth-of-type(1) img {
   object-fit: cover;  /* keeps image nice */
   display: block;
 }
+
+main section:nth-of-type(1) h1 {
+  position:absolute;
+  top: 1em;
+}
+
+main section:nth-of-type(1) span {
+  position:absolute;
+  top: 1em;
+}
+
+main section:nth-of-type(1) a {
+  position:absolute;
+  top: 1em;
+}
+
+
+
+
 
 
 
@@ -294,6 +346,11 @@ main section:nth-of-type(2) h2 {
 	margin-bottom: 1em;
 	font-size: 2rem;
 }
+
+
+
+
+
 
 
 
@@ -378,6 +435,11 @@ main section:nth-of-type(3) > p {
 
 
 
+
+
+
+
+
 /****************/
 /* Want more to see */
 /****************/
@@ -390,6 +452,11 @@ main section:nth-of-type(4)  {
 
 
 
+
+
+
+
+
 /****************/
 /* Socials */
 /****************/
@@ -397,10 +464,16 @@ main section:nth-of-type(5)  {
 	background-color: var(--color-white);
 	
 }
+
 main section:nth-of-type(6)  {
 	background-color: var(--color-white);
 	
 }
+
+
+
+
+
 
 
 
@@ -418,6 +491,11 @@ main article:nth-of-type(1)  {
 
 
 
+
+
+
+
+
 /****************/
 /* our matlock shop */
 /****************/
@@ -425,6 +503,11 @@ main article:nth-of-type(2)  {
 	background-color: var(--color-black);
 	
 }
+
+
+
+
+
 
 
 
@@ -442,6 +525,11 @@ main article:nth-of-type(3)  {
 
 
 
+
+
+
+
+
 /****************/
 /* have a question */
 /****************/
@@ -454,12 +542,23 @@ main section:nth-of-type(7)  {
 
 
 
+
+
+
+
+
 /****************/
 /* footer */
 /****************/
 footer{
 	background-color: var(--color-black);
 }
+
+
+
+
+
+
 
 
 
