@@ -265,8 +265,8 @@ main section:nth-of-type(1) img {
 
 main section:nth-of-type(1) h1 {
   	position:absolute;
-  	top: 2em;
-	right:1em;
+  	top: 15%;
+	left: 42%;
   	padding: 1em 0.5em;
 	font-size: 1.3em;
 	color: var(--color-button-text-dark-2);
@@ -283,13 +283,15 @@ main section:nth-of-type(1) span {
 
 main section:nth-of-type(1) a {
   	position:absolute;
-  	top: 8em;
+  	top: 15%;
   	padding: 1em 2.2em;
 	font-size: 1em;
 	font-family: "Work Sans";
 	color: var(--color-button-text-light);
 	background-color: var(--color-button-bg-light);
-	right: 1em;
+	left: 42%;
+	margin-left: 4em;
+	margin-top: 5em;
 }
 
 
