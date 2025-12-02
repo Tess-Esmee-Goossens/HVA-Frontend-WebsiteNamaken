@@ -461,7 +461,23 @@ main section:nth-of-type(3) > p {
 /****************/
 main section:nth-of-type(4)  {
 	background-color: var(--color-tan);
-	
+	text-align: center;
+	height:fit-content;
+	padding:2em;
+	padding-bottom: 3.5em;
+}
+
+main section:nth-of-type(4) h2{
+	font-size: 2em;
+	margin-bottom: 1.5em;
+}
+
+main section:nth-of-type(4) a{
+	padding: 1.2em 2em;
+	font-size: 1.2em;
+	color: var(--color-button-text-dark-1);
+	background-color: var(--color-button-bg-dark);
+	font-family: "Work Sans";
 }
 
 
