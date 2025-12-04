@@ -191,17 +191,17 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 3<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Mijn eerste pagina is voor op de klein scherm bijna af en ben nog aan het kijken wat ik als 2e pagina ga doen verder heb ik met de WCAG test een aantal verbeter punten gevonden waar ik aan verder ga werken.
 
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
+  | Nathan         | Zoë                | Artemis      | Tess             |
   | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  | Voortgang      | Voortgang          | Voortgang    | Voortgang        |
+  |                |                    |              |                  |
+  |                |                    |              |                  |
 
 
   ### Verslag van meeting
