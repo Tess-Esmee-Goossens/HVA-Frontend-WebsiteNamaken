@@ -252,8 +252,42 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Nb. ChatGpT en andere AI horen er ook bij.
   Nb. Vermeld de bronnen ook in je code.
 
-  1. bron 1
-  2. bron 2
-  3. ...
+  1. CSS tricks guide to flexbox <br>
+     https://css-tricks.com/snippets/css/a-guide-to-flexbox/ <br>
+
+  2. W3Schools CSS<br>
+     https://www.w3schools.com/css/default.asp <br>
+
+  3. CSS tricks guide to grid <br>
+     https://css-tricks.com/snippets/css/complete-guide-grid/ <br>
+
+  4. Pine tools om de kleur van afbeeldingen te veranderen door middel van colorize en invert colors <br>
+     https://pinetools.com/colorize-image <br>
+
+  5. MDN om terug te kijken op de pseudo-classes <br>
+     https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Selectors/Pseudo-classes <br>
+
+  6. Verschillende oefeningen uit de les <br>
+
+  7. The lost cauldron voor de content en afbeeldingen van de website <br>
+     https://www.lostcauldron.com/ <br>
+
+  8. W3 Schools Css object-fit <br>
+     https://www.w3schools.com/css/css3_object-fit.asp <br>
+
+  9. W3 Schools Css Text decoration thickness <br>
+     https://www.w3schools.com/cssref/pr_text_text-decoration-thickness.php <br>
+
+  10. W3 Schools CSS text-underline-offset Property <br>
+      https://www.w3schools.com/cssref/css3_pr_text-underline-offset.php <br>
+
+  11. Google fonts voor het vinden van de fonts van mijn site <br>
+      https://fonts.google.com/specimen/Alice?query=alice <br>
+
+  12. Stack overflow afbeelding square maken met css <br>
+      https://stackoverflow.com/questions/15167545/how-to-crop-a-rectangular-image-into-a-square-with-css <br>
+      
+  13. 
+  14. 
 
 </details>
