@@ -21,7 +21,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Rood misschien zwart
 
   #### Je focus:
-  Surface plane
+  responsive
  
 </details>
 
@@ -286,7 +286,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   12. Stack overflow afbeelding square maken met css <br>
       https://stackoverflow.com/questions/15167545/how-to-crop-a-rectangular-image-into-a-square-with-css <br>
-      
+
   13. 
   14. 
 
