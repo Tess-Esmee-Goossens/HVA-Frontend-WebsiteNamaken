@@ -557,12 +557,12 @@ main section:nth-of-type(4) a{
 /****************/
 /* Socials */
 /****************/
-[class~="follow-signup"] section  {
+main div:nth-of-type(1) section  {
 	background-color: var(--color-white);
 	padding: 2em;
 }
 
-[class~="follow-signup"] section > ul{
+main div:nth-of-type(1) section > ul{
 	display: grid;
 	grid-template-columns: 1fr 1fr;
 	list-style: none;
@@ -571,28 +571,28 @@ main section:nth-of-type(4) a{
 	width: 100%;
 }
 
-[class~="follow-signup"] section > ul li{
+main div:nth-of-type(1) section > ul li{
 	display: block;
 	object-fit: cover;
 	min-width: 100%;
 	min-height:100%
 }
 
-[class~="follow-signup"] section > ul img{
+main div:nth-of-type(1) section > ul img{
 	display: block;
 	object-fit: cover;
 	min-width: 100%;
 	aspect-ratio: 1/1;
 }
 
-[class~="follow-signup"] section nav ul{
+main div:nth-of-type(1) section nav ul{
 	display: flex;
 	justify-content: right;
 	gap:1em;
 	list-style: none;
 }
 
-[class~="follow-signup"] section nav img{
+main div:nth-of-type(1) section nav img{
 	width: 1.5em;
 }
 
