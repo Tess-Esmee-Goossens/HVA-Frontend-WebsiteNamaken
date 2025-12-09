@@ -141,6 +141,21 @@ p{
     height: 100vh;
 }
 
+a:hover, a:focus {
+    border: 16px solid var(--color-black)!important;
+    background-color: var(--color-pure-white)!important;
+    color: var(--color-black) !important;
+	padding: 5px;
+    transition: all 0.3s ease; /* smooth effect */
+}
+
+a:active {
+    border: 10px solid var(--color-black)!important;
+    background-color: var(--color-tan)!important;
+    color: var(--color-black)!important;
+}
+
+
 @media (min-width:750px) {
   body{
 	font-size: 24px;
@@ -177,10 +192,14 @@ header button {
 	border: none;
 	order: -1;
 }
+header button:hover {
+	border: 16px solid var(--color-pure-white)!important;
+}
 
 header button img{
 	width: 3em;
 	height: 3em;
+	
 }
 
 header a:nth-of-type(1) img{
@@ -192,6 +211,7 @@ header a:nth-of-type(2) img{
 	width: 1.5em;
 	height: auto;
 	margin-right: 0.5em;
+	background-color: inherit;
 }
 
 header a{
@@ -458,6 +478,7 @@ main section:nth-of-type(3) li {
 	display: grid;
 	grid-template-columns: 1fr;
 	list-style: none;
+	color: var(--color-text-white);
 }
 
 main section:nth-of-type(3) a {
@@ -466,6 +487,7 @@ main section:nth-of-type(3) a {
     position: relative;
     text-decoration: none;
     text-align: center;
+	color: var(--color-text-white);
 }
 
 main section:nth-of-type(3) img {
@@ -480,7 +502,7 @@ main section:nth-of-type(3) span {
     top: 8px;
     right: 0;
     background: var(--color-grey);
-    color: var(--color-text-white);
+    color: var(--color-white);
     padding: 4px 10px;
     font-size: 0.75em;
     font-weight: bold;
@@ -492,7 +514,7 @@ main section:nth-of-type(3) p {
     margin-top: 8px;
     font-size: 1em;
 	margin-bottom: 1em;
-	color: var(--color-text-white);
+	color: inherit;
 }
 
 main section:nth-of-type(3) h2 {
@@ -625,7 +647,12 @@ main div:nth-of-type(1) section nav img{
 	}
 }
 
-
+main div:nth-of-type(1) section > ul li a{
+	display: block;
+}
+main div:nth-of-type(1) section nav a{
+	display: block;
+}
 
 
 
@@ -685,6 +712,12 @@ main div:nth-of-type(1) article  button{
 	border: none;
 }
 
+main div:nth-of-type(1) article button:hover{
+	border: 16px solid var(--color-tan)!important;
+}
+main div:nth-of-type(1) article input:hover{
+	border: 16px solid var(--color-black)!important;
+}
 
 
 
@@ -891,6 +924,10 @@ footer ul{
 	justify-content: center;
 	gap:1em;
 
+}
+
+footer li a{
+	display: block;
 }
 
 footer li img{
