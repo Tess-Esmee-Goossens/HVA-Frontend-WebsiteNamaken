@@ -289,7 +289,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   13. Aria guide voor accessibility <br>
       https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Reference/Attributes <br>
-      
-  14. 
+
+  14. Css tricks guide to Inclusively Hidden <br> 
+      https://css-tricks.com/inclusively-hidden/ <br>
+
+  15. How to add google maps on the website <br>
+      https://www.youtube.com/watch?v=4U_AAGHzTok <br>
 
 </details>
