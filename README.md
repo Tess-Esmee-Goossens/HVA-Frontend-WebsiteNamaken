@@ -347,5 +347,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   16. Stackoverflow How to get a blur behind text <br>
       https://stackoverflow.com/questions/71197714/how-can-i-blur-the-background-behind-text-in-css <br>
+  
+  17. Sneeuw animatie van code pen <br>
+      https://codepen.io/sadness97/pen/mdOXzNW <br>
 
 </details>
