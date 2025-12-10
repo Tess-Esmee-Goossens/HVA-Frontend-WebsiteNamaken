@@ -256,12 +256,14 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   - Screenreaders and aria (Had het niet eerder gedaan)
 
+  - Het werken met media queries
+
   - Animaties al had ik meer willen doen als er meer teid voor was (Had het niet eerder gedaan)
 
   - Google maps op de pagina van shop loccatie (Had het niet eerder gedaan)
   <img src="readme-images/Googlemaps-voorbeeld.png" width="375px" alt="">
 
-  - semantische code schrijven (Had het niet eerder echt gedaan)
+  - Aemantische code schrijven (Had het niet eerder echt gedaan)
 
 
 
@@ -275,7 +277,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
    - Animaties van de follow us Had er geen teid voor en zal hier na de vakantie nog naar kijken want het lijkt me leuk om te weten hoe het werkt
    <img src="readme-images/Animatie-FollowUs.png" width="375px" alt="">
 
-   - customised section overloop
+   - Customised section overloop
    <img src="readme-images/Section-overgang.png" width="375px" alt="">
 
 
