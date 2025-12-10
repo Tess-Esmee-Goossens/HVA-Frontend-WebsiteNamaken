@@ -43,9 +43,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <img src="readme-images/TheLostCauldron-Home.png" width="375px" alt="afbeelding van de home pagina van de site">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  Online shop filtert op thee
-  https://www.lostcauldron.com/online-shop/teas <br>
-  <img src="readme-images/TheLostCauldron-Shop-Tea.png" width="375px" alt="Afbeelding van de web shop ge vilterd op thee">
+  Matlock shop page
+  https://www.lostcauldron.com/matlock-shop <br>
+  <img src="readme-images/Matlock-shop.png" width="375px" alt="Afbeelding van de web pagina van de matlock shop">
  
 </details>
 
@@ -92,7 +92,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### de hele pagina: 
   <img src="readme-images//TheLostCauldron-Home-BreakdownSchets.png" width="375px" alt="Breakdownschets home"><br>
-  <img src="readme-images/TheLostCauldron-Shop-Tea-BreakdownSchets.png" width="375px" alt="Breakdownschets Shop tea selection"><br>
+  <img src="readme-images/Dynamisch-deel1.png" width="375px" alt="Breakdownschets hamburger menu"><br>
+  <img src="readme-images/Dynamisch-deel2.png" width="375px" alt="Breakdownschets hamburger login"><br>
 </details>
 
 
@@ -123,8 +124,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
   ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
-
   - De site die ik had gekozen was goed maar als ik meer tijd over had kon ik een andere 2e pagina uitkiezen als degene die ik had gekozen vij makkelijk was.
   Aanpassingen van mijn code om semantisch te maken.
   - p weg halen ster in link zelf
@@ -158,12 +157,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
   ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
-- ...
+  - 2e pagina is te simpel zoek een wat moeilijkere pagina uit.
 
 </details>
 
@@ -177,8 +171,38 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na test in 9<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
-  Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
+  - Sommige afbeeldingen hebben geen alt.
+  - Focus kan duidelijker.
+  - Headers kunnen voor screenreaders duidelijker.
+  - Geen states.
+  - Geen skiplink.
+  - Externe links zijn niet duidelijk.
+  - Geen darkmode.
+  - Svg veranderd niet op high contrast.
+  - Geen animaties.
+  - sale heeft een lage contrast.
 
+  ### Ga ik nog oplossen
+  - Sommige afbeeldingen hebben geen alt. (Fixed)
+  - Focus kan duidelijker. (Fixed)
+  - Headers kunnen voor screenreaders duidelijker. (Fixed)
+  - Geen states. (Fixed)
+  - Geen skiplink. (Fixed)
+  - Externe links zijn niet duidelijk. (Nu duidelijk voor screenreaders)
+  - Geen darkmode. (Fixed)
+  - sale heeft een lage contrast. (Fixed)
+
+  ### Aanbevelingen
+  - Svg veranderen met high contrast.
+  - Meer animaties toevoegen
+  - Externe links duidelijker maken
+
+  ### Data
+  <img src="readme-images/WCAG-2-1.png" width="375px" alt="Afbeelding WCGA checklist2 deel 1"><br>
+  <img src="readme-images/WCAG-2-2.png" width="375px" alt="Afbeelding WCGA checklist2 deel 2"><br>
+  <img src="readme-images/WCAG-2-3.png" width="375px" alt="Afbeelding WCGA checklist2 deel 3"><br>
+  <img src="readme-images/WCAG-2-4.png" width="375px" alt="Afbeelding WCGA checklist2 deel 4"><br>
+  <img src="readme-images/WCAG-2-5.png" width="375px" alt="Afbeelding WCGA checklist2 deel 5"><br>
 </details>
 
 
@@ -191,7 +215,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 3<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  Mijn eerste pagina is voor op de klein scherm bijna af en ben nog aan het kijken wat ik als 2e pagina ga doen verder heb ik met de WCAG test een aantal verbeter punten gevonden waar ik aan verder ga werken.
+  Mijn eerste pagina is bijna af en ben aan het kijken naar mijn 2e pagina
 
 
   ### Agenda voor meeting
@@ -201,16 +225,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   | ---            | ---                | ---          | ---              |
   | Voortgang      | Voortgang          | Voortgang    | Voortgang        |
   |                |                    |              |                  |
-  |                |                    |              |                  |
+
 
 
   ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  Deze meeting ging niet door omdat de docent ziek was en ik had verder geen vragen voor de begeleider. 
+  <br>Wel heb ik contact gehouden met mijn groepje en heb Nathan geholpen met wat vragen over het project.
 
 </details>
 
@@ -224,19 +244,46 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/Pagina-1-uitkomst.png" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/Pagina-2-uitkomst.png" width="375px" alt="uitomst opdracht 2">
+  <img src="readme-images/Interactief-uitkomst.png" width="375px" alt="uitomst opdracht 3">
+
 
 
   ### Dit ging goed/Heb ik geleerd: 
-  Korte omschrijving met plaatjes
+  - Grid gebruik en toepassen (Had het niet eerder gedaan)
+  <img src="readme-images/Grid-voorbeeld.png" width="375px" alt="">
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
+  - Screenreaders and aria (Had het niet eerder gedaan)
+
+  - Animaties al had ik meer willen doen als er meer teid voor was (Had het niet eerder gedaan)
+
+  - Google maps op de pagina van shop loccatie (Had het niet eerder gedaan)
+  <img src="readme-images/Googlemaps-voorbeeld.png" width="375px" alt="">
+
+  - semantische code schrijven (Had het niet eerder echt gedaan)
+
+
 
 
   ### Dit was lastig/Is niet gelukt:
-  Korte omschrijving met plaatjes
+   - Animaties al had ik meer willen doen als er meer teid voor was (Had het niet eerder gedaan)
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+   - Afbeeldingen overlappen (Heb het geprobeerd maar er bleven conflicten komen met stylen als ik het responsive maak)
+   <img src="readme-images/Afbeelding-overlappen.png" width="375px" alt="">
+
+   - Animaties van de follow us Had er geen teid voor en zal hier na de vakantie nog naar kijken want het lijkt me leuk om te weten hoe het werkt
+   <img src="readme-images/Animatie-FollowUs.png" width="375px" alt="">
+
+   - customised section overloop
+   <img src="readme-images/Section-overgang.png" width="375px" alt="">
+
+
+  ### Aanbevelingen op basis van WCAG
+  - Svg veranderen met high contrast.
+  - Meer animaties toevoegen
+  - Externe links duidelijker maken
+
 </details>
 
 
@@ -293,7 +340,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   14. Css tricks guide to Inclusively Hidden <br> 
       https://css-tricks.com/inclusively-hidden/ <br>
 
-  15. How to add google maps on the website <br>
+  15. youtube how to add google maps on the website <br>
       https://www.youtube.com/watch?v=4U_AAGHzTok <br>
+
+  16. Stackoverflow How to get a blur behind text <br>
+      https://stackoverflow.com/questions/71197714/how-can-i-blur-the-background-behind-text-in-css <br>
 
 </details>
