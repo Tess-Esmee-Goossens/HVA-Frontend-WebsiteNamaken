@@ -171,6 +171,7 @@ a:active {
 		color: var(--color-black) !important;
 		padding: 5px;
 		transition: all 0.3s ease; /* smooth effect */
+		cursor: pointer;
 	}
 	
 	a:active {
@@ -1254,4 +1255,13 @@ iframe{
 .snowflake:nth-of-type(9) {
     left: 90%;
     animation-delay: 3s, 1.5s;
+}
+
+@media screen and (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+	animation-play-state: paused, paused;
+  }
 }
